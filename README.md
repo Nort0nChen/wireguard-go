@@ -53,7 +53,7 @@ $ wireguard-go -f wg0
 
 
 ```
-$ git clone https://git.zx2c4.com/wireguard-go
+$ git clone https://github.com/Nort0nChen/wireguard-go
 $ cd wireguard-go
 $ make
 ```
